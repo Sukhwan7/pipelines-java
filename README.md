@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sukhwan7/testlim/_apis/build/status/Sukhwan7.pipelines-java?branchName=master)](https://dev.azure.com/sukhwan7/testlim/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
